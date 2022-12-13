@@ -1,0 +1,1 @@
+best epoch: 23, psnr: 39.50
